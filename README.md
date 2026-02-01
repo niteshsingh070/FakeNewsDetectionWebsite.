@@ -5,7 +5,7 @@ Trained on a massive dataset of over **100,000+ articles** (including 2024-2025 
 
 ## 🚀 Live Demo
 **[Click Here to Try the Web App](https://fakenewsdetectionwebsite-zziisglrrucvprf4axe9fq.streamlit.app/)** 
-
+![User Interface]()
 ---
 
 ## 📌 Features
