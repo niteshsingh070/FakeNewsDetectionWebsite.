@@ -4,7 +4,7 @@ A Machine Learning powered web application that detects whether a news article i
 Trained on a massive dataset of over **100,000+ articles** (including 2024-2025 Indian News & AI-generated fake news) using **LinearSVC** and **TF-IDF Vectorization** to achieve high accuracy.
 
 ## 🚀 Live Demo
-**[Click Here to Try the Web App](https://your-app-url-here.streamlit.app/)** *(Replace this link with your actual Streamlit Cloud URL)*
+**[Click Here to Try the Web App](https://fakenewsdetectionwebsite-zziisglrrucvprf4axe9fq.streamlit.app/)** 
 
 ---
 
@@ -36,7 +36,7 @@ A graphical representation of Accuracy, Precision, Recall, and F1-Score.
 
 | Metric | Score |
 | :--- | :--- |
-| **Accuracy** | **~99%** |
+| **Accuracy** | **~98%** |
 | **Precision** | **~99%** |
 | **Recall** | **~99%** |
 | **F1 Score** | **~99%** |
